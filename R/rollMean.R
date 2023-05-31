@@ -27,4 +27,4 @@ roll_mean <- function(x, k = 7) {
   # set to NA if it starts with 0s so that the average does not get computed
   rollapplyr(x, k, mean, partial=TRUE, align = align)
 }
-
+####
