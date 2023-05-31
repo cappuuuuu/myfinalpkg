@@ -1,3 +1,9 @@
+<!-- badges: start -->
+[![workflow](https://github.com/cappuuuuu/myfinalpkg/actions/workflows/workflow.yaml/badge.svg)](https://github.com/cappuuuuu/myfinalpkg/actions/workflows/workflow.yaml)
+<!-- badges: end -->
+
+
+
 # myfinalpkg documentation
   
 The goal of **myfinalpkg** is to illustrate building a package during the IntroR4 workshop.
